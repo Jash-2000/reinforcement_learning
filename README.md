@@ -17,7 +17,6 @@ Implementations of selected reinforcement learning algorithms with tensorflow.
 
 ### Implemented Algorithms
 
-(Click into the links for more details)
 
 ##### Advanced 
 
